@@ -1,6 +1,6 @@
-# script to demonstrate reading single cell matrices in various format 
+# script to demonstrate reading single cell matrices 
 # and converting to seurat object 
-# setwd("/Users/kr/Desktop/demo/InputFormat_singleCell")
+
 
 # load libraries
 library(Seurat)
